@@ -11,7 +11,7 @@ The Global Superstore wants to create an sales report for 2016. So that, the own
 ● Yearly Sales Trends 
 ● Department-wise Revenue
 
-- Dashboard Interaction <a href="https://github.com/TheProjectTime/Data-Analytics-Sales-Performance/main/Sales%Dashboard.jpg">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/TheProjectTime/Data-Analytics-Sales-Performance/blob/main/Sales%20Dashboard.jpg">View Dashboard</a>
 
 ## Dashboard
 
