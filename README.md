@@ -3,7 +3,7 @@
 The Global Superstore wants to create an sales report for 2016. So that, the owner of the he can understand their customers and grow more sales in 2012 to 2015.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/global_superstore_2016.xlsx">Dataset</a>
+- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
 
 ##Create a Pivot Table Dashboard to Analyze Sales Performance based on:
 ● Total Revenue
