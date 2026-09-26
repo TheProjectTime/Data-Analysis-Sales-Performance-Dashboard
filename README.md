@@ -15,7 +15,8 @@ The Global Superstore wants to create an sales report for 2016. So that, the own
 
 ## Dashboard
 
-![Sales Dashborad](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+<img width="1980" height="1530" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/58ebdc8e-4672-4e8b-8d6a-ff9f32c3c1b5" />
+
 
 ## Project Insight
 * **Technology** is the top revenue-generating product category ($47,44,557.50, ~37.5%), followed closely by **Furniture** ($41,10,451.90) and **Office Supplies** ($37,87,492.51).
