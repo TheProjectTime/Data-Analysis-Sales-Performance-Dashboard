@@ -15,7 +15,8 @@ The Global Superstore wants to create an sales report for 2016. So that, the own
 
 ## Dashboard
 
-<img width="1980" height="1530" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/58ebdc8e-4672-4e8b-8d6a-ff9f32c3c1b5" />
+<img width="1980" height="1530" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/7bc95ed8-6901-4a1f-a36d-51227182d87f" />
+
 
 
 ## Project Insight
